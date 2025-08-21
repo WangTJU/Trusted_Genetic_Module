@@ -1,0 +1,16 @@
+Encode
+-------------------------------------
+gene:	2631 nt	877 AA
+-------------------------------------
+ATG:	3 nt	1 AA
+dGMS:	360 nt	120 AA
+	| dGMS_ruler:	16
+Head:	339 nt	113 AA
+	| gene_id:	MRC_0000000002
+	| L|R|P:	 	0|0|1
+	| payload_len:	8123
+	| (3')L_len:	0
+	| (5')R_len:	0
+GMS:	1926 nt	642 AA
+	| GMS_ruler:	15
+TAA:	3 nt	1 AA
